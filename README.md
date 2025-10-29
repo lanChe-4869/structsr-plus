@@ -1,7 +1,5 @@
 ## StructSR++: A Training-Free Structural Enhancement Framework for Diffusion-Based Real-World Image Super-Resolution
 
- Demo Page(will be coming soon!)
-
 ### Dependencies and Installation
 
 - required packages in `requirements.txt`
@@ -47,10 +45,7 @@ CUDA_VISIBLE_DEVICES=0 python test_seesr.py \
 ```
 
 
-
-## Citation
-
-#### Gradio Demo
+### Gradio Demo
 
 Please put the all pretrained models at `preset/models`, and then run the following command to interact with the gradio website.
 
